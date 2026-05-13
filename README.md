@@ -1,6 +1,10 @@
 # Hola, soy Brayan 👋
 <img src="LINK-DE-TU-IMAGEN" width="150" style="border-radius:50%">
 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=tokyonight)
 💻 Developer | QA Engineer | Cybersecurity Learner
 
 Apasionado por el backend, QA automation y seguridad informática.
