@@ -1,8 +1,10 @@
 
-<!-- BANNER -->
-<img src="LINK-DE-TU-BANNER" width="100%" />
+<!-- ASCII / TERMINAL IMAGE -->
+<p align="center">
+  <img src="https://github.com/Brayan7273/runner/blob/main/ascii-art-text.png" width="100%" />
+</p>
 
-<h1 align="center">Hola 👋, Soy Brayan</h1>
+<h1 align="center">Hola 👋, Soy Brayan Garcia</h1>
 
 <h3 align="center">
 💻 Developer | QA Engineer | Cybersecurity Learner
@@ -13,23 +15,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Backend+Developer;QA+Engineer;Cybersecurity+Learner;Spring+Boot+%7C+Python+%7C+APIs;Always+Learning+New+Things" />
 </p>
 
----
-
-<!-- FOTO -->
-<div align="center">
-
-<img src="LINK-DE-TU-FOTO" width="180" style="border-radius:50%;" />
-
-</div>
-
----
-
 ## 🚀 Sobre mí
 
 <img align="right" alt="Coding" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🎓 Ingeniería en Tecnologías de la Información
-- 🔍 Enfocado en QA, APIs y Ciberseguridad
+- 🎓 Ingeniería Desarrollo y Gestion de Software
+- 🔍 Enfocado en QA,backend, APIs y Ciberseguridad
 - ⚙️ Construyendo proyectos reales con Spring Boot y Python
 - 📚 Aprendiendo Pentesting Web y QA Automation
 - 🌎 México
@@ -74,19 +65,6 @@
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 ## 🔥 Proyectos Destacados
 
@@ -123,7 +101,7 @@ Linux
 OWASP Top 10
 APIs REST
 CI/CD
-````
+```
 
 ---
 
@@ -131,7 +109,7 @@ CI/CD
 
 <p align="center">
 
-<a href="LINK-LINKEDIN">
+<a href="www.linkedin.com/in/brayan-gael-garcía-gonzález-671b07244">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -139,23 +117,11 @@ CI/CD
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
 
-<a href="mailto:TUEMAIL@gmail.com">
+<a href="mailto:brayangonzalez030405@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
-
----
-
-## 🧠 Roadmap Actual
-
-```mermaid
-graph LR;
-    QA-->Automation;
-    Automation-->Cybersecurity;
-    Backend-->DevOps;
-    Cybersecurity-->Pentesting;
-```
 
 ---
 
@@ -166,4 +132,4 @@ graph LR;
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0F2027&height=120&section=footer"/>
 
 </div>
-```
+````
