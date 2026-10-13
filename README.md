@@ -1,135 +1,50 @@
+# ¡Hola! Soy Brayan García 👋
 
-<!-- ASCII / TERMINAL IMAGE -->
-<p align="center">
-  <img src="https://github.com/Brayan7273/runner/blob/main/ascii-art-text.png" width="100%" />
-</p>
+### Desarrollador de Software en formación | Backend → Application Security
 
-<h1 align="center">Hola 👋, Soy Brayan Garcia</h1>
+Me interesa construir software útil, comprender cómo funcionan las aplicaciones por dentro y aprender a desarrollar sistemas seguros desde su diseño.
 
-<h3 align="center">
-💻 Developer | QA Engineer | Cybersecurity Learner
-</h3>
+Actualmente estoy fortaleciendo mis conocimientos de programación y desarrollo backend, con el objetivo de especializarme progresivamente en seguridad de aplicaciones (AppSec).
 
-<!-- TYPING EFFECT -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Backend+Developer;QA+Engineer;Cybersecurity+Learner;Spring+Boot+%7C+Python+%7C+APIs;Always+Learning+New+Things" />
-</p>
+## 🎯 Objetivos profesionales
 
-## 🚀 Sobre mí
+- Desarrollar APIs REST y servicios backend.
+- Fortalecer mis conocimientos de Java, Spring Boot y bases de datos.
+- Mejorar mis prácticas de testing, depuración y control de versiones.
+- Aprender a identificar y prevenir vulnerabilidades en aplicaciones web.
+- Construir proyectos prácticos, documentados y reproducibles.
 
-<img align="right" alt="Coding" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+## 🛠️ Tecnologías
 
-- 🎓 Ingeniería Desarrollo y Gestion de Software
-- 🔍 Enfocado en QA,backend, APIs y Ciberseguridad
-- ⚙️ Construyendo proyectos reales con Spring Boot y Python
-- 📚 Aprendiendo Pentesting Web y QA Automation
-- 🌎 México
-- 🚀 Buscando crecer como QA Engineer / Backend Developer
+**Desarrollo:** Java, Spring Boot, Python, JavaScript, Node.js
 
-<br><br>
+**Frontend:** Angular, React
 
----
+**Bases de datos:** PostgreSQL, MongoDB, SQL
 
-## 🛠️ Tecnologías y Herramientas
+**Herramientas:** Git, GitHub, VS Code, Linux
 
-<div align="center">
+*Estoy consolidando estas tecnologías mediante práctica y proyectos personales; mi experiencia con cada una varía.*
 
-### 💻 Backend & Programming
+## 🚀 Proyectos
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+Aquí iré incorporando proyectos que demuestren mi progreso en desarrollo de software, backend y seguridad de aplicaciones.
 
----
-
-### 🗄️ Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-
-### 📱 Mobile & Tools
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 🧪 QA & Cybersecurity
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![QA](https://img.shields.io/badge/QA_Testing-black?style=for-the-badge)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-darkred?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
-
-
-## 🔥 Proyectos Destacados
-
-### 🛡️ Cybersecurity Lab
-Laboratorio personal para análisis de vulnerabilidades web,
-pentesting básico y pruebas de seguridad.
-
----
-
-### ✅ QA API Testing
-Automatización de pruebas para APIs REST usando Postman,
-Python y testing manual.
-
----
-
-### 🛒 WhatsApp Order Bot
-Bot automatizado para negocios locales que recibe pedidos
-y administra órdenes automáticamente.
-
----
-
-### 🏨 Hotel Booking System
-Sistema de reservaciones para hoteles pequeños con panel administrativo.
-
----
+Mi prioridad es construir proyectos funcionales, explicar las decisiones técnicas y documentar lo aprendido.
 
 ## 📚 Actualmente aprendiendo
 
-```txt
-QA Automation
-Pentesting Web
-Docker
-Linux
-OWASP Top 10
-APIs REST
-CI/CD
-```
+- Java y desarrollo backend.
+- Diseño y consumo de APIs REST.
+- Pruebas automatizadas y buenas prácticas de programación.
+- Seguridad de aplicaciones web y OWASP.
+- Git, Linux y herramientas para el desarrollo seguro.
 
----
+## 📫 Contacto
 
-## 🌐 Conecta conmigo
+- GitHub: [@Brayan7273](https://github.com/Brayan7273)
 
-<p align="center">
+- Correo: [brayangonzalez030405@gmail.com]
+- Numero 4681570358
 
-<a href="www.linkedin.com/in/brayan-gael-garcía-gonzález-671b07244">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="LINK-PORTAFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
-</a>
-
-<a href="mailto:brayangonzalez030405@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-### ⭐ Siempre aprendiendo y construyendo proyectos reales ⭐
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0F2027&height=120&section=footer"/>
-
-</div>
-````
+*Aprender construyendo, mejorar con cada proyecto y desarrollar software pensando también en su seguridad.*
